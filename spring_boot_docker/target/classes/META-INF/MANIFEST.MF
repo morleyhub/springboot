@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: spring_boot_docker
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: l.mao
+Implementation-Vendor-Id: ml.com
+Build-Jdk: 1.8.0_131
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
